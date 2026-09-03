@@ -81,3 +81,5 @@ Este proyecto está contenedorizado, por lo que no necesitas instalar Node, Post
    `npm run docker:logs` o `docker compose logs -f api`
 5. Para detener y eliminar los contenedores:
    `npm run docker:down` o `docker compose down`
+
+   commit 2
